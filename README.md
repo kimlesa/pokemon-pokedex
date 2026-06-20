@@ -11,7 +11,7 @@
 ---
 ## Скриншот приложения
 
-![Mini Pokédex](screenshot_pickachu.png.png)
+![Mini Pokédex](screenshot_pickachu.png)
 
 ---
 
